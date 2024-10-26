@@ -1,7 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SoJeong&fontSize=90)
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&fontColor=FFFFFF&height=300&section=header&text=SoJeong&fontSize=90)
 ## 🤓 Interest 🤓
 Deep Learning, Customization, Generative Model
 
